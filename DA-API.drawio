@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T09:52:08.334Z" agent="5.0 (X11)" etag="NqHjBPV-kQ9KSD5NBzMa" version="20.2.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-08-31T13:36:07.556Z" agent="5.0 (Windows)" etag="ITiHVSkAsRvErgFLZmze" version="20.0.4" type="github" pages="6">
   <diagram name="Классы" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="1350" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,7 +183,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LrjLmdc16D3cw4YwyVvE" name="Общая архитектура">
-    <mxGraphModel dx="1350" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,6 +207,11 @@
         </mxCell>
         <mxCell id="6CDOJu6UO4p9K_j52PlU-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6CDOJu6UO4p9K_j52PlU-5" target="6CDOJu6UO4p9K_j52PlU-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qxa2_LLRWMbA_rfcgzxq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6CDOJu6UO4p9K_j52PlU-5" target="Qxa2_LLRWMbA_rfcgzxq-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6CDOJu6UO4p9K_j52PlU-5" value="&lt;div&gt;API&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="359" y="310" width="80" height="80" as="geometry" />
@@ -234,6 +239,9 @@
         </mxCell>
         <mxCell id="p1JLKjVarZ-ngro-bto8-1" value="Moderator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qxa2_LLRWMbA_rfcgzxq-1" value="MongoDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
